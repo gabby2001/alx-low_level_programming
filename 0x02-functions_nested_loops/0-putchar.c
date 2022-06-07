@@ -1,11 +1,13 @@
-#include "main.h"
+#ifndef _MY_HEADER_H_
+#define _MY_HEADER_H_
 /**
  * main - Entry point
  *
  * Return: Always 0 (Success)
  */
-int main(void)
+int main (void)
 {
+#include <stdio.h>
 		char *sh = "_putchar";
 
 			while (*sh)
@@ -17,3 +19,4 @@ int main(void)
 
 					return (0);
 }
+#endif /* _MY_HEADER_H_ */
