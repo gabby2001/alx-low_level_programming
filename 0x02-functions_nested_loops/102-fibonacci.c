@@ -1,6 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include "main.h"
 /**
  * main - Entry point
  *
@@ -8,7 +6,7 @@
  */
 int main(void)
 {
-	int 1;
+	int i;
 	long int x, y, z;
 
 	x = 1;
