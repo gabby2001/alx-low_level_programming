@@ -26,7 +26,7 @@ void print_triangle(int size)
 			}
 			for (hashes = 1; hashes <= row; hashes++)
 			{
-				_putchar('❤');
+				_putchar('#');
 			}
 			_putchar('\n');
 		}
