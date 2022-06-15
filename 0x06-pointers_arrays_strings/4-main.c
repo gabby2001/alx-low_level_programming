@@ -3,7 +3,7 @@
 
 /**
  * main - check the code
- * Description: 'print_array'
+ * print_array - reverses content
  * @a: an array of integers
  * @n: the number of elements to swap
  *
